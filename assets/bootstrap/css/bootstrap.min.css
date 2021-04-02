@@ -69,9 +69,9 @@ body {
     font-size: 1rem;
     font-weight: 400;
     line-height: 1.5;
-    color: #000000;
+    color: #ffffff;
     text-align: left;
-    background-color: #222425
+    background-color: #3a3b3c
 }
 
 [tabindex="-1"]:focus:not(:focus-visible) {
@@ -4853,7 +4853,7 @@ input[type=submit].btn-block {
 }
 
 .navbar-light .navbar-nav .nav-link.disabled {
-    color: rgba(0, 0, 0, .3)
+    color: rgba(58, 59, 60, .3)
 }
 
 .navbar-light .navbar-nav .active>.nav-link,
@@ -10386,7 +10386,7 @@ a.text-success:hover {
 }
 
 .text-info {
-    color: #3b99e0!important
+    color: #ffffff!important
 }
 
 a.text-info:focus,
@@ -11040,7 +11040,6 @@ html {
     left: 0;
     right: 0;
     bottom: 0;
-    background-color: currentColor;
     z-index: 1
 }
 
@@ -11072,7 +11071,7 @@ html {
     top: 15px;
     width: 30px;
     text-align: center;
-    color: #3b99e0
+    color: #ffffff
 }
 
 .feature-box h4 {
