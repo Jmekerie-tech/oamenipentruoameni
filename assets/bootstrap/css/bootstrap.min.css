@@ -11944,7 +11944,7 @@
                     
                     @media (min-width:576px) {
                         .clean-block {
-                            padding-bottom: 100px
+                            padding-bottom: 90px
                         }
                         .clean-block .block-heading {
                             padding-top: 80px
@@ -12209,18 +12209,18 @@
                     }
                     
                     .page-footer.dark a {
-                        color: #d2d1d1
+                        color: #fed136
                     }
                     
                     .page-footer a:focus,
                     .page-footer a:hover {
                         text-decoration: none;
-                        color: #1d2125
+                        color: #d4ad2b
                     }
                     
                     .page-footer.dark a:focus,
                     .page-footer.dark a:hover {
-                        color: #fff
+                        color: #ad9027
                     }
                     
                     @media (min-width:576px) {
