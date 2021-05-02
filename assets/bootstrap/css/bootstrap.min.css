@@ -2644,8 +2644,8 @@
                     
                     .btn-primary {
                         color: #fff;
-                        background-color: #007bff;
-                        border-color: #007bff
+                        background-color: #004085;
+                        border-color: #34647a;
                     }
                     
                     .btn-primary.focus,
@@ -11048,12 +11048,12 @@
                     }
                     
                     .clean-block.clean-hero h2 {
-                        margin-bottom: 30px
+                        margin-bottom: 10px
                     }
                     
                     .clean-block.clean-hero p {
                         font-size: 18px;
-                        margin-bottom: 30px
+                        margin-bottom: 150px
                     }
                     
                     .feature-box {
@@ -11944,7 +11944,7 @@
                     
                     @media (min-width:576px) {
                         .clean-block {
-                            padding-bottom: 90px
+                            padding-bottom: 80px
                         }
                         .clean-block .block-heading {
                             padding-top: 80px
